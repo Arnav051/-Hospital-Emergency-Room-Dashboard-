@@ -21,6 +21,15 @@ Interactive Hospital Emergency Room Dashboard built in Microsoft Excel using Piv
 •	Gender Analysis
 •	Department Referral
 
+## 🔍 Key Insights Covered in the Dashboard
+✅ Total Number of Patients
+✅ Average Wait Time to See a Patient
+✅ Patient Admission Status (Admitted/Not Admitted)
+✅ Patient Age Distribution
+✅ Gender Analysis
+✅ Department Referrals
+✅ Percentage of Patients Seen Within 30 Minutes
+
 ## Dataset
 Hospital Emergency Room Dataset
 
